@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mis_Notitas EN</string>
+    <string name="string_texto1_verNota">Información de la nota EN</string>
+    <string name="string_boton1_verNota">VOLVER EN</string>
+    <string name="string_boton2_verNota">BORRAR EN</string>
+
+    <string name="string_texto1_crearNota">Escribe tu Nota EN</string>
+    <string name="string_texto2_crearNota">Escribe tu Nota EN</string>
+    <string name="string_boton1_crearNota">VOLVER EN</string>
+    <string name="string_boton2_crearNota">CREAR EN</string>
+
+    <string name="string_boton1_borrarNotas">BORRAR TODAS LAS NOTAS EN</string>
+    <string name="string_boton2_borrarNotas">VOLVER EN</string>
+
+    <string name="toast_texto1_borrarNotasActivity">Se han borrado todas las notas correctamente EN</string>
+
+    <string name="toast_texto1_crearNotaActivity">Escriba su Nota EN</string>
+    <string name="toast_texto2_crearNotaActivity">Contenido insertado correctamente EN</string>
+    <string name="toast_texto3_crearNotaActivity">Error al insertar el producto EN</string>
+
+    <string name="toast_texto1_listadoActivity">Aquí podrás crear tu nota EN</string>
+
+    <string name="toast_texto1_verNotaActivity">Borrado correctamente EN</string>
+    <string name="toast_texto2_verNotaActivity">Error al borrar la nota EN</string>
+    <string name="toast_texto3_verNotaActivity">No he recibido ningún paquete EN</string>
+</resources>
